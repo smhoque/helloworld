@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>PIIT User Registration (Devops engineer in AWS)</h1>
+    <h1>PIIT User Registration (QA engineer in PIIT)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      

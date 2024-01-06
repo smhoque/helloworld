@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>PIIT User Registration (QA engineer in people N Tech)</h1>
+    <h1>PIIT User Registration (piit class)</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
